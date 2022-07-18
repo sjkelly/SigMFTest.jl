@@ -1,0 +1,15 @@
+[gps_data]
+git-tree-sha1 = "849accb74418a8498efdf4aaae4fcbd7521959a5"
+lazy = true
+
+    [[gps_data.download]]
+    url = "https://zenodo.org/record/6394603/files/GPS-L1-2022-03-27.sigmf-data?download=1"
+    sha256 = "b94e457c8405d2082316e06a771607df3183351c6ca5f3dd28a7f4a8894cd117"
+
+[gps_meta]
+git-tree-sha1 = "267b622918285769b70f724b3ef5736df9f15fc3"
+lazy = true
+
+    [[gps_meta.download]]
+    url = "https://zenodo.org/record/6394603/files/GPS-L1-2022-03-27.sigmf-meta?download=1"
+    sha256 = "b93f5a506fb9a916091b619dd0b979b634445b32f199e496f0143ece344fe5ca"

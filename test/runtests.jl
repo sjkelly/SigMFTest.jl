@@ -2,5 +2,6 @@ using SigMFTest
 using Test
 
 @testset "SigMFTest.jl" begin
-    # Write your tests here.
+
+    SigMFTest.load_test()
 end
