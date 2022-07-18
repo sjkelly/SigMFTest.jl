@@ -1,0 +1,13 @@
+name = "SigMFTest"
+uuid = "b9194a36-efda-4e0e-8747-1a4e74834609"
+authors = ["Steve Kelly <kd2cca@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
